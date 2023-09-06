@@ -1,2 +1,4 @@
-# cnn_for_xray_chest_classification
-Convolutional networks for x-ray chest classification
+# USING CONVOLUTIONAL NETWORKS FOR X-RAY CHEST CLASSIFICATION
+Academic project, University of Cagliari
+Language: Italian
+Platform: Google Colab or standard Jupyter notebook
