@@ -6,3 +6,9 @@ Language: Italian
 
 
 Platform: Google Colab or standard Jupyter notebook
+
+
+Description: Deep learning for x-ray chest classification between 4 classes (Normal, Covid, Lung Opacity, Viral Pneumonia)
+
+
+Dataset: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
